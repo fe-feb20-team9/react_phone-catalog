@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c012852f44b8a569ec7ca2778f02a6bc",
+    "revision": "bf3d002e9d27a3544f3b8945f93641e8",
     "url": "./index.html"
   },
   {
-    "revision": "e430c10db1180ca892bd",
-    "url": "./static/css/2.ab84ab19.chunk.css"
+    "revision": "c929dd77c723711e3433",
+    "url": "./static/css/2.e4ce7aec.chunk.css"
   },
   {
-    "revision": "5e05323cbc5226e372d4",
-    "url": "./static/css/main.f4ba6e84.chunk.css"
+    "revision": "4d7a0a5dd22382592550",
+    "url": "./static/css/main.f852f2fb.chunk.css"
   },
   {
-    "revision": "e430c10db1180ca892bd",
-    "url": "./static/js/2.9569044e.chunk.js"
+    "revision": "c929dd77c723711e3433",
+    "url": "./static/js/2.1fb94763.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "./static/js/2.9569044e.chunk.js.LICENSE.txt"
+    "url": "./static/js/2.1fb94763.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e05323cbc5226e372d4",
-    "url": "./static/js/main.5688f073.chunk.js"
+    "revision": "4d7a0a5dd22382592550",
+    "url": "./static/js/main.67883baf.chunk.js"
   },
   {
     "revision": "13d57103233adbc95222",
@@ -52,12 +52,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/9.33eb8231.jpg"
   },
   {
-    "revision": "e81aaeac5a719d0c5c0bee203ffbdbbc",
-    "url": "./static/media/Chevron (Arrow Right).e81aaeac.svg"
+    "revision": "6d472ca3ffd2acdf2016e82445839c32",
+    "url": "./static/media/Chevron (Arrow Right).6d472ca3.svg"
   },
   {
-    "revision": "49f665877b6b6081e14cef4569870268",
-    "url": "./static/media/LOGO.49f66587.svg"
+    "revision": "65d5cd5524941549a723bb8f890f89d3",
+    "url": "./static/media/LOGO.65d5cd55.svg"
   },
   {
     "revision": "482e37260cd688576287f1976e958e0b",
@@ -72,16 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Mont-SemiBold.d41a520b.otf"
   },
   {
-    "revision": "ff3d67af1b96156ed02937810edcf38b",
-    "url": "./static/media/heart.ff3d67af.svg"
+    "revision": "a4fcfbe7b64c5a2cfcc7e221784734b7",
+    "url": "./static/media/heart.a4fcfbe7.svg"
   },
   {
     "revision": "938e2dfca64037403c542be9f0c7f19d",
     "url": "./static/media/out_of_stock_1024x1024.938e2dfc.jpg"
   },
   {
-    "revision": "5402f79f60ab5c6838c7cf36f411ab91",
-    "url": "./static/media/redHeart.5402f79f.svg"
+    "revision": "f9efbec7ce42dec9599fe4affc84cdba",
+    "url": "./static/media/redHeart.f9efbec7.svg"
   },
   {
     "revision": "b7c9e1e479de3b53f1e4e30ebac2403a",
